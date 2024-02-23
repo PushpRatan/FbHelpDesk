@@ -40,7 +40,7 @@ const Signup = () => {
           Remember Me
         </label>
       </div>
-      <button className="mx-auto w-full text-white font-semibold p-2 bg-[#1e4d91]">
+      <button className="mx-auto w-full text-white font-semibold p-2 bg-[#1e4d91] rounded-md">
         SignUp
       </button>
       <div className="text-center my-2 text-sm">
